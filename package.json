@@ -1,12 +1,15 @@
 {
-  "name": "react-native-crypto-tracker",
+  "name": "react-native-crypto-tracker2",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "jest-expo": "~27.0.0",
-    "react-native-scripts": "1.14.0",
-    "react-test-renderer": "16.3.1",
-    "remotedev-server": "^0.2.5"
+    "jest-expo": "^21.0.2",
+    "react-native-debugger-open": "^0.3.15",
+    "react-native-scripts": "1.5.0",
+    "react-test-renderer": "16.0.0-alpha.12",
+    "remote-redux-devtools": "^0.5.12",
+    "remotedev-rn-debugger": "^0.8.3",
+    "redux-logger": "^3.0.6"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "scripts": {
